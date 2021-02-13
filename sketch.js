@@ -395,7 +395,7 @@ function draw(){
    } 
    
    //win
-   if(scoreText === 5){
+   if(scoreText === 100){
     winText.visible = true;
     gameState = "WIN";
    }
@@ -620,7 +620,7 @@ function greet() {
 }
 
 function redirect() {
-  window.location.href = 'https://theinevitable007.github.io/1play/';
+  window.location.href = 'https://beingadithya.github.io/1play/';
 }
 
 
